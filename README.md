@@ -49,4 +49,4 @@
 
 ## Ссылка на данные
 
-[Ссылка на файл](dst-3.0_16_1_hh_database.csv)
+[Ссылка на файл]([dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=share_link))
